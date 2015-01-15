@@ -99,6 +99,7 @@ body {
 }
 .tableblog {
   height: 607px;
+    clear: both;
 }
 thead {
   background-color: #e6e6e6;
